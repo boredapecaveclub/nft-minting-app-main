@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0x46D0b9AF585f36517cB6b4c73f258B709fE73067",
+  "SCAN_LINK": "https://polygonscan.com/token/0x46D0b9AF585f36517cB6b4c73f258B709fE73067",
+  "NETWORK": {
+    "NAME": "Polygon",
+    "SYMBOL": "Matic",
+    "ID": 137
+  },
+  "NFT_NAME": "Bored Ape Cave Club",
+  "SYMBOL": "BACC",
+  "MAX_SUPPLY": 3000,
+  "WEI_COST": 1000000000000000000,
+  "DISPLAY_COST": 1,
+  "GAS_LIMIT": 285000,
+  "MARKETPLACE": "Opeansea",
+  "MARKETPLACE_LINK": "https://opensea.io/collection/boredapecaveclub",
+  "SHOW_BACKGROUND": true
+}
